@@ -1,2 +1,2 @@
-# HackPSU_DLWorkshop
-Introduction to Deep Learning - HackPSU 2017 Workshop Repository
+# Introduction to Deep Learning
+HackPSU Spring 2017 Workshop Repository
